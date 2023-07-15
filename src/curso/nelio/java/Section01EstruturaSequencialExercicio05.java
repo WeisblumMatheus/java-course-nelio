@@ -3,7 +3,7 @@ package curso.nelio.java;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Exercicio05EstruturaSequencial {
+public class Section01EstruturaSequencialExercicio05 {
     public static void main(String[] args){
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
