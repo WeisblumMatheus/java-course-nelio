@@ -2,7 +2,7 @@ package curso.nelio.java;
 
 import java.util.Scanner;
 
-public class Section02EstruturaCondicionalExercicio03 {
+public class Section05EstruturaCondicionalExercicio03 {
     public static void main(String [] args){
         Scanner sc = new Scanner(System.in);
 

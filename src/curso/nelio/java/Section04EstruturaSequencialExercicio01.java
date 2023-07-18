@@ -2,7 +2,7 @@ package curso.nelio.java;
 
 import java.util.Scanner;
 
-public class Section01EstruturaSequencialExercicio01 {
+public class Section04EstruturaSequencialExercicio01 {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
 
