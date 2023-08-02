@@ -26,6 +26,7 @@ public class Section08OrientacaoAObjetosExercicio03 {
                     "FAILED\n" +
                     "MISSING %.2f POINTS", result, student.missingPoints());
         }
+
         sc.close();
 
     }
